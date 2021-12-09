@@ -3,3 +3,5 @@ print('something more')
 
 def sum():
     pass
+
+sum()
